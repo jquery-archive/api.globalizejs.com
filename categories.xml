@@ -1,4 +1,5 @@
 <categories>
-	<category name="Uncategorized" slug="uncategorized"/>
+	<category name="Uncategorized" slug="uncategorized"></category>
+        <category name="Configuration and Utilities" slug="config"></category>
 	<category name="All" slug="all"></category>
 </categories>
