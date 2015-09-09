@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="../entries2html.xsl" ?>
-<entry type="method" name="Globalize.load">
-    <title>Globalize.load()</title>
+<entry type="method" name="Globalize.locale">
+    <title>Globalize.locale()</title>
     <signature>
         <argument name="locale" type="String">
             <desc>The locale string, eg: <strong>en</strong>, <strong>pt-BR</strong>, or <strong>zh-Hant-TW</strong>. </desc>
